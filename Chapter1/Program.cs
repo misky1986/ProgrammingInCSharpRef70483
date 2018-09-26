@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Chapter1.Skill1._4.Example1;
+using Chapter1.Skill1._4.Example2;
+using System;
 
 namespace Chapter1
 {
@@ -6,7 +8,8 @@ namespace Chapter1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // new PublishAndSubscribe().Run();
+            new EventsUsage().Run();
         }
     }
 }

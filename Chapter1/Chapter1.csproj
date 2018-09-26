@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Skill1.1\" />
+    <Folder Include="Skill1.5\" />
+    <Folder Include="Skill1.3\" />
+    <Folder Include="Skill1.2\" />
+  </ItemGroup>
+
 </Project>
