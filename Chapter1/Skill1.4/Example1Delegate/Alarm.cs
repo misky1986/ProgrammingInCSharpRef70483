@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chapter1.Skill1._4.Example1
+namespace Chapter1.Skill1._4.Example1Delegate
 {
     class Alarm
     {

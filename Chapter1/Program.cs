@@ -1,5 +1,7 @@
-﻿using Chapter1.Skill1._4.Example1;
-using Chapter1.Skill1._4.Example2;
+﻿using Chapter1.Skill1._4.Example1Delegate;
+using Chapter1.Skill1._4.Example2Events;
+using Chapter1.Skill1._4.Example3CreateDelegates;
+using Chapter1.Skill1._4.Exercise1;
 using System;
 
 namespace Chapter1
@@ -8,8 +10,10 @@ namespace Chapter1
     {
         static void Main(string[] args)
         {
-            // new PublishAndSubscribe().Run();
-            new EventsUsage().Run();
+            //new PublishAndSubscribe().Run();
+            //new EventsUsage().Run();
+            //new CreateCustomDelegates().Run();
+            new OnlineAttendance().Run();
         }
     }
 }

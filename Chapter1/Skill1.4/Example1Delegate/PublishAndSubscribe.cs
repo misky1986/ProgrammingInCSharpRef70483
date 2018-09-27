@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chapter1.Skill1._4.Example2
+namespace Chapter1.Skill1._4.Example1Delegate
 {
-    class EventsUsage
+    class PublishAndSubscribe
     {
         static void AlarmListner1()
         {
